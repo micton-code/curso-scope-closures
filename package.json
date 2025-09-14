@@ -1,0 +1,12 @@
+{
+  "name": "curso-scope-closures",
+  "version": "1.0.0",
+  "description": "En este curso aprenderás:  **Scope global, local, bloques y funcionesClosures y su importancia.HoistingDebugging utilizando Google Chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anthony Utrera",
+  "license": "ISC"
+}
